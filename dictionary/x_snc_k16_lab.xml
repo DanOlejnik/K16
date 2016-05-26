@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Lab" max_length="40" name="x_snc_k16_lab" type="collection"/>
+    <element label="Lab" max_length="40" name="x_snc_k16_lab" type="collection">
+        <element label="TestRow" max_length="40" name="testrow" type="string"/>
+    </element>
 </database>
